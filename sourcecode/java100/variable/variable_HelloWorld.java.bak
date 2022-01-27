@@ -1,0 +1,15 @@
+// public class variable_HelloWorld {
+	// public static void main(String[] args){
+		// System.out.println("Hello World~");
+	// }
+// }
+
+//1.26.
+public class variable_HelloWorld{
+	public static void main(String[] args){
+				
+		System.out.println(Byte.BYTES);  // 바이트 계산
+		System.out.println(Byte.SIZE);  // 비트 계산
+		
+	}
+}
