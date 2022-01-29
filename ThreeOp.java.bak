@@ -9,7 +9,7 @@ public class ThreeOp{
 		hour_12 = hour>12 ? hour-12 : hour; 
 		
 		time = hour>12 ? "p.m." :"a.m.";
-		System.out.printf("Now is %s \t so it's %d o'clock!", time, hour_12);
+		System.out.printf("Now is %s \t so it's $d o'clock!", time, hour_12);
 		
 	}
 }
