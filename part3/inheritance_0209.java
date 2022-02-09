@@ -18,7 +18,7 @@ public class inheritance_0209{
 		parrot.info();
 		parrot.moving();
 		parrot.flying();
-		System.out.println("papa's gender : "+parrot.gender);
+		System.out.println("papa's gender : "+parrot.gender);  // 부모 클래스 필드(변수)
 	}
 }
 

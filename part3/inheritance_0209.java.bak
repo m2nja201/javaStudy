@@ -18,6 +18,7 @@ public class inheritance_0209{
 		parrot.info();
 		parrot.moving();
 		parrot.flying();
+		System.out.println("papa's gender : "+parrot.gender);
 	}
 }
 
