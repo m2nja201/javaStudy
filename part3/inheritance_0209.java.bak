@@ -14,7 +14,7 @@ public class inheritance_0209{
 		nabi.moving();
 		nabi.grooming();
 		
-		bird parrot = new parrot("papa", 6);
+		bird parrot = new bird("papa", 6);
 		parrot.info();
 		parrot.moving();
 		parrot.flying();
@@ -25,11 +25,12 @@ class animal{
 	int age;
 	String name;
 	int legs;
+	String gender = "male";
 	
-	animal(String a_name, int a_age, int a_legs){
-		this.name = a_name;
-		this.age = a_age;
-		this.legs = a_legs;
+	animal(String name, int age, int legs){
+		this.name = name;
+		this.age = age;
+		this.legs = legs;
 	}
 	
 	void feeding(){
@@ -50,7 +51,9 @@ class cat extends animal {
 	String name;
 	int legs = 4;
 	
-	cat (String a_name, int a_age):animal(a_name, a_age, 4){
+	cat (String name, int age){
+		super(name, age, 4);
+		this.name = name;
 	}
 	
 	void moving(){  // 변경할 수 있음 (오버라이딩)
@@ -67,7 +70,9 @@ class bird extends animal {
 	String name;
 	int legs = 2;
 	
-	bird (String a_name, int a_age):animal(a_name, a_age, 2){
+	bird (String name, int age){
+		super(name, age, 2);
+		this.name = name;
 	}
 	
 	void flying(){
