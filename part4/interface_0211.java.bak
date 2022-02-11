@@ -47,7 +47,6 @@ interface Allowance{
 	// 추상 메서드만 사용할 수 있다 => 하지만 public abstract 키워드를 지워도 알아서 컴파일 해준다
 	abstract void in (int price, String name); 
 	void out (int price, String name);
-	// void wash(){System.out.~} 처럼 구현이 되어 있으면 안된다.
 }
 
 // B 인터페이스 (부모)
