@@ -1,0 +1,18 @@
+// 0212
+
+public class poly2_0212{
+	public static void main(String [] args){
+		// Car c1 = new Car(); 추상 클래스는 객체를 생성할 수 없지만
+		Car c2 = new SportsCar();
+	}
+}
+
+abstract class Car{
+	abstract void run();
+}
+
+class SportsCar extends Car{
+	void run(){
+		System.out.println("overidding");
+	}
+}
