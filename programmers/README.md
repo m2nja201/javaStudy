@@ -3,4 +3,12 @@
 
 ## 성공한 문제 🔥
 - [두 개 뽑아서 더하기](https://github.com/m2nja201/javaStudy/blob/ba74569b199cf8b885b0ce2f2619920c4c453670/programmers/pick2Sum.java)     
-  - [두 개 뽑아서 더하기 출처](https://programmers.co.kr/learn/courses/30/lessons/68644)
+  - 출처 : [두 개 뽑아서 더하기 출처](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- [내적](https://github.com/m2nja201/javaStudy/blob/15711fda8cc736e4245c96c07b9d8becc31b1186/programmers/dotProduct.java)
+  - 출처 : [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
+- [소수 만들기](https://github.com/m2nja201/javaStudy/blob/15711fda8cc736e4245c96c07b9d8becc31b1186/programmers/makingDecimal.java)
+  - 출처 : [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+- [실패율](https://github.com/m2nja201/javaStudy/blob/15711fda8cc736e4245c96c07b9d8becc31b1186/programmers/failureRate.java)
+  - 출처 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) 
+- [예산](https://github.com/m2nja201/javaStudy/blob/15711fda8cc736e4245c96c07b9d8becc31b1186/programmers/budget.java)
+  - 출처 : [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
