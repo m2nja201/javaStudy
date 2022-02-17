@@ -13,8 +13,8 @@ public class e_math{
 		int absVal = Math.abs(-10);
 		System.out.println(absVal);
 		// random
-		System.out.println(Math.random()); // 0~1.0까지의 랜덤한 수
-		// 제곱근
-		System.out.println(Math.sqrt(25));
+		System.out.println(Math.random()); // 0~1.0까지의 랜덤한 수 (double)
+		// 제곱근 
+		System.out.println(Math.sqrt(25)); // double
 	}
 }

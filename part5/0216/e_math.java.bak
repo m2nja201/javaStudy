@@ -14,5 +14,7 @@ public class e_math{
 		System.out.println(absVal);
 		// random
 		System.out.println(Math.random()); // 0~1.0까지의 랜덤한 수
+		// 제곱근
+		System.out.println(Math.sqrt(25));
 	}
 }
