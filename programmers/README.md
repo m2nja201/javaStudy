@@ -12,3 +12,5 @@
   - 출처 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) 
 - [예산](https://github.com/m2nja201/javaStudy/blob/15711fda8cc736e4245c96c07b9d8becc31b1186/programmers/budget.java)
   - 출처 : [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+- [전화번호 목록](https://github.com/m2nja201/javaStudy/blob/93e513bbe7dd03d55879ac983591b7e6125fd5b4/programmers/phoneNum.java)
+  - 출처 : [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
