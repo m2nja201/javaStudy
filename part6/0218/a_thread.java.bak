@@ -3,7 +3,7 @@
 
 class MyThread extends Thread{
 	String str;
-	public MyThread(String str){
+	public a_thread(String str){
 		this.str = str;
 	}
 	
