@@ -60,5 +60,4 @@ class MyThread implements Runnable {
 			}
 		}
 	}
-	
 }
